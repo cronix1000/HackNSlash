@@ -16,7 +16,7 @@ Bonus objectives once we complete the technical functionality:
 
 ## How to Contribute
 
-1. Install Unity Editor 2021.3.7f1
-2. Git clone this repo
-3. Create your own branch
-4. Open an issue and see your work added to master
+1. Install Unity Editor 2021.3.7f1 (https://unity3d.com/get-unity/download/archive)
+2. Fork this repo
+3. When your work is done, create a pull request
+4. See your work added to the master branch!
